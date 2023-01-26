@@ -1,1 +1,1 @@
-![Group 2204](https://user-images.githubusercontent.com/62425964/214836397-6e3c5fbe-a56e-49a1-a62f-751e81d5c95d.svg)
+![Wald logo](https://user-images.githubusercontent.com/62425964/214485760-209749e1-fddd-44ea-9c21-a689a4add5cc.svg) __api__ ![Wald logo](https://user-images.githubusercontent.com/62425964/214485760-209749e1-fddd-44ea-9c21-a689a4add5cc.svg) __front__
